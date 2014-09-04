@@ -1,0 +1,17 @@
+{
+  "name": "bcornies-bower",
+  "version": "0.1.0",
+  "author": "bcornies",
+  "summary": "Installs the Bower package manager and defines a bower package provider.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/bcornies/puppet-bower",
+  "project_page": "https://github.com/bcornies/puppet-bower",
+  "issues_url": "https://github.com/bcornies/puppet-bower/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
